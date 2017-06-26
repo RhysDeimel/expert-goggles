@@ -3,3 +3,6 @@
 
 ## TODO
  - Actually tidy up some of the things I've done and put them in here.
+ 
+### General Notes
+ - Sensors usually have associated libraries. Use them,
