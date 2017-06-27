@@ -9,4 +9,4 @@
  - Drama with ESP8266 - http://www.instructables.com/id/Beginners-Guide-to-ESP8266-and-Tweeting-Using-ESP8/
   -- uses 3.3v logic. Arduino Uno uses 5v. Convert?
 - Download git based libraries with: https://minhaskamal.github.io/DownGit/#/home
-- Webserver without library
+- Webserver without library - http://allaboutee.com/2014/12/30/esp8266-and-arduino-webserver/
