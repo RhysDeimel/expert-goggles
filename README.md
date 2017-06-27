@@ -12,3 +12,5 @@
 - Webserver without library - http://allaboutee.com/2014/12/30/esp8266-and-arduino-webserver/
 
 - !!!! Change ESP baud rate with "AT+UART_DEF=9600,8,1,0,0". Arduino Uno has problems with 115200 - http://www.instructables.com/id/Cheap-Arduino-WiFi-Shield-With-ESP8266/
+
+- https://github.com/bportaluri/WiFiEsp: Seems like a promising library.
