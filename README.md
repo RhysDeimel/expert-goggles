@@ -18,3 +18,4 @@
 ---
 
 - DHT22 - http://www.instructables.com/id/How-to-use-DHT-22-sensor-Arduino-Tutorial/
+- ESP8266 resources: http://yaab-arduino.blogspot.com.au/2015/03/esp8266-resources.html
