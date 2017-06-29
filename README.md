@@ -7,7 +7,7 @@
 ### General Notes
  - Sensors usually have associated libraries. Use them. 
  - Download git based libraries with: https://minhaskamal.github.io/DownGit/#/home
-
+ - Fritzing for diagrams: http://fritzing.org/home/
 ---
 
  - DHT22 - http://www.instructables.com/id/How-to-use-DHT-22-sensor-Arduino-Tutorial
